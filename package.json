@@ -12,6 +12,7 @@
     "mongodb": "^6.9.0",
     "mongoose": "^8.7.0",
     "next": "14.2.15",
+    "next-api-blog": "file:",
     "react": "^18",
     "react-dom": "^18"
   },
